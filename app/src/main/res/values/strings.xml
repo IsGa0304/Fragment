@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="detalles_de_la_cita">Detalles de la Cita</string>
+    <string name="m_dico_seleccionado">Médico Seleccionado:</string>
+    <string name="confirmar_cita">Confirmar Cita</string>
+    <string name="confirmaci_n_de_cita">Confirmación de Cita</string>
+    <string name="m_dico">Médico:</string>
+    <string name="especialidad">Especialidad:</string>
+    <string name="fecha_y_hora">Fecha y Hora:</string>
+    <string name="confirma_cita">Confirmar Cita</string>
+    <string name="seleccione_un_doctor">Seleccione un Doctor</string>
+</resources>
